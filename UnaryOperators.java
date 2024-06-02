@@ -14,14 +14,37 @@ public class UnaryOperators {
 
     // sc.close();
 
+    // post increment
+
+    // Scanner sc = new Scanner(System.in);
+    // System.out.println("Enter C");
+    // int c = sc.nextInt();
+    // int d = c++;
+    // System.out.println(c);
+    // System.out.println(d);
+
+    // sc.close();
+
+    // pre decrement
+
+
+    // Scanner sc = new Scanner(System.in);
+    // System.out.println("Enter E");
+    // int e = sc.nextInt();
+    // int f = --e;
+    // System.out.println(e);
+    // System.out.println(f);
+
+    // sc.close();
+
     // post decrement
 
     Scanner sc = new Scanner(System.in);
-    System.out.println("Enter C");
-    int c = sc.nextInt();
-    int d = c++;
-    System.out.println(c);
-    System.out.println(d);
+    System.out.println("Enter G");
+    int g = sc.nextInt();
+    int h = g--;
+    System.out.println(g);
+    System.out.println(h);
 
     sc.close();
 
